@@ -18,3 +18,7 @@ This weather application has many practical applications in real life. It is use
 
 Furthermore, this project can be enhanced with additional features such as automatic location detection using GPS, 7-day weather forecasting, weather alerts, and dynamic background changes based on weather conditions. Voice search and multilingual support can also be added to improve user experience. Overall, the weather application project is a valuable learning experience that combines creativity and technical skills. It helps in understanding real-world web development concepts and builds a strong foundation in front-end development and API integration, making it highly useful for beginners in programming and software development.
 
+#OUTPUT
+
+<img width="1860" height="992" alt="Image" src="https://github.com/user-attachments/assets/5eb69a02-0d7d-407a-b10b-4ce57c3e563a" />
+
